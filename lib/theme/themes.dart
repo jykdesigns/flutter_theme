@@ -19,6 +19,6 @@ final ThemeData defaultTheme = ThemeData(
   elevatedButtonTheme: brandElevatedButtonTheme,
   listTileTheme: brandListTileTheme,
   bottomNavigationBarTheme: bottomNavigationBarTheme,
-  colorScheme: myAppColorScheme,
+  colorScheme: brandAppColorScheme,
   useMaterial3: true,
 );

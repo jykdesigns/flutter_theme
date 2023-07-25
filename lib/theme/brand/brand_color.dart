@@ -69,7 +69,7 @@ class BrandColors {
   static const Color appBarForeground = defaultFont;
 }
 
-const ColorScheme myAppColorScheme = ColorScheme(
+const ColorScheme brandAppColorScheme = ColorScheme(
     brightness: Brightness.light,
     primary: BrandColors.brand,
     onPrimary: BrandColors.headingFont,
